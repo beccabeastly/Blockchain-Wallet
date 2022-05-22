@@ -54,7 +54,7 @@ Remaining balance of account
 ![80_ether]()
 
 Transaction Blocks
-![Blocks]()
+![Blocks](https://github.com/beccabeastly/Blockchain-Wallet/blob/main/blocks.png)
 
 
 # Contributors
