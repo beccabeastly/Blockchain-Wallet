@@ -50,8 +50,8 @@ Go to website: [Ganache_Install](https://trufflesuite.com/ganache/)
 Hired fintech professional for 40 hours
 ![Tansaction_Hash](https://github.com/beccabeastly/Blockchain-Wallet/blob/main/Total_Transaction_Picture.png)
 
-Remaining balance of account
-![80_ether](https://github.com/beccabeastly/Blockchain-Wallet/blob/main/Total_Transaction_Picture.png)
+Contract Call
+![80_ether](https://github.com/beccabeastly/Blockchain-Wallet/blob/main/Contract_Call.png)
 
 Transaction Blocks
 ![Blocks](https://github.com/beccabeastly/Blockchain-Wallet/blob/main/blocks.png)
