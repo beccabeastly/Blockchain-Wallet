@@ -58,4 +58,4 @@ Transaction Blocks
 
 
 # Contributors
-[Email](beccabeastly@gmail.com)
+[Rebecca_Fintech_Student_Email](beccabeastly@gmail.com)
